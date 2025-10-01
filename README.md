@@ -17,13 +17,17 @@
 ## Скриншоты  
 
 ### Дашборд  
-![Dashboard](assets/dashboard.png)  
+![Dashboard](assets/Main.png)  
+
+### Доп. Дашборд  
+![Dashboard2](assets/Main2.png)  
 
 ### Логи устройств  
-![Logs](assets/logs.png)  
+![Logs](assets/Logs.png)  
 
 ### Speedtest  
-![Speedtest](assets/speedtest.png)  
+![Speedtest](assets/Speedtest.png)  
+
 
 
 ## Архитектура
