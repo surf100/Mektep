@@ -14,6 +14,18 @@
 - написанием бизнес-логики для сбора, хранения и агрегации данных;
 - настройкой контейнеризации через Docker и Docker Compose.
 
+## Скриншоты  
+
+### Дашборд  
+![Dashboard](assets/dashboard.png)  
+
+### Логи устройств  
+![Logs](assets/logs.png)  
+
+### Speedtest  
+![Speedtest](assets/speedtest.png)  
+
+
 ## Архитектура
 
 ```
